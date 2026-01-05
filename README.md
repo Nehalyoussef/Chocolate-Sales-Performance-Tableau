@@ -66,4 +66,3 @@ Provides a **high-level snapshot** of overall business performance.
 ## Important Note
 Due to a device failure, the original dashboard source file is not available.  
 This repository includes the **final dashboard image** along with a comprehensive explanation of the analytical logic and insights derived.
-The project is shared for **portfolio and demonstration purposes**, focusing on Tableau dashboard design and analytical reasoning.
